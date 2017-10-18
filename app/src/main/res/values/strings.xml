@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bomb Samurai</string>
+
+    <string name="start_button">Start</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="logo">logo</string>
+</resources>
